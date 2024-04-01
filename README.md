@@ -20,8 +20,6 @@ Cada carpeta de proyecto contiene su propio README con instrucciones específica
 
 ## Contacto
 
-## Contacto
-
 Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto conmigo, puedes hacerlo a través de mi perfil de Linkedin:       www.linkedin.com/in/ana-gonzález-121979185
 
 ¡Espero que disfrutes explorando estos proyectos tanto como yo disfruté desarrollándolos!
